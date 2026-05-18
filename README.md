@@ -2,12 +2,12 @@
 
 Projeto de jogo inspirado em Lethal Company.
 
-🎮 Tipo: Jogo
-🛠️ Engine: (Unity / Godot / outra)
-👤 Desenvolvedor: UNGAS-PMS
+Tipo: Jogo
+Engine: (Unity / Godot / outra)
+Desenvolvedor: Pedro Miguel Schravinato
 
-## Sobre o projeto
-Descrição breve do jogo, mecânicas principais e objetivo.
-
-## Status
+Descrição:
+  Estudo de simulação de fisica realista de oceanos, ultilizando malhas 3D e corpos que reagem as ondas
+  
+Status
 Em desenvolvimento
