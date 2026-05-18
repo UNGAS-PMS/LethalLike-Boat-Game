@@ -3,7 +3,7 @@
 Projeto de jogo inspirado em Lethal Company.
 
 Tipo: Jogo
-Engine: (Unity / Godot / outra)
+Engine: (Unity)
 Desenvolvedor: Pedro Miguel Schravinato
 
 Descrição:
